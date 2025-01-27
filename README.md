@@ -11,3 +11,5 @@ This repository contains the solutions for the Data Science Intern Assignment fo
  3. **Customer Segmentation / Clustering**
 - Applied clustering techniques to segment customers using both profile and transaction data.
 - Evaluated clustering metrics and visualized results.
+- ![image](https://github.com/user-attachments/assets/cbc7b002-e504-489a-8f31-505c750e418d)
+
